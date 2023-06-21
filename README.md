@@ -9,6 +9,7 @@ The Horiseon Refactor project is a refactored version of the Horiseon website co
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [License](#license)
 - [Features](#features)
 - [Link](#link)
 
@@ -23,6 +24,10 @@ The Horiseon Refactor project is a codebase for a marketing agency website that 
 ## Credits
 
 Arun Mundackal
+
+## License
+
+MIT License
 
 ## Features
 
